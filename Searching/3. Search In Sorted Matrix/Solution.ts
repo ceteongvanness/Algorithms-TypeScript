@@ -14,6 +14,3 @@ export function searchInSortedMatrix(matrix: number[][], target: number): Range 
 	}
 	return [-1, -1];
 }
-
-  
-  
